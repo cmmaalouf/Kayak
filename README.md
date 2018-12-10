@@ -1,7 +1,18 @@
 # Kayak
+## Description
 This is my final project for computer graphics.
 
 I modelled a person in a kayak. I was motivated to do this after finding a three.js examples of water at sunrise. At home I kayak at sunrise and so I thought it would be neat to model one of my favorite things to do.
+
+If the user hits the left arrow key, the paddle dips in the water and the kayak moves left.
+If the user hits the right arrow key, the paddle dips in the water and the kayak moves right.
+
+
+## Examples
+Kayak1.png
+Kayak2.png
+Video(1).MOV
+Video(2).MOV
 
 
 ## Sources
