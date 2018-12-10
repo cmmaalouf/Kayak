@@ -1,10 +1,6 @@
-// all hex colors found from https://www.color-hex.com/color/691ea9
-// below is the link where i learned how to use keyboard input
-// http://learningthreejs.com/blog/2011/09/12/lets-Make-a-3D-game-keyboard/
-
-
-// learned about the setTimeout function from:
-//https://stackoverflow.com/questions/36448954/how-to-set-time-delay-in-adding-mesh-to-scene-in-three-js
+//Chiara Maalouf
+// Computer Graphics
+// December 10th, 2018
       var keyboard = new THREEx.KeyboardState();
       var container, stats;
 			var camera, scene, renderer, light;
