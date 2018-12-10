@@ -10,6 +10,11 @@ If the user hits the right arrow key, the paddle dips in the water and the kayak
 ## Design Stucture
 I tried making groupd for the paddle, the person, and the kayak model as a whole. The person is made up of another two groups upper arms and lower arms.
 I tried to make the rowing movement using these groups but it was easier to do this my individual parts.
+I made my persona and kayak from BoxGeometry SphereGeometry and Cylinder Geomertry.
+
+## Difficulties
+The hardest part of the project was modeling the movement of of the paddle to move the kayak. I had tried using the arm group as whole to move the paddle, but it would dislocate the arms for the persons body. Eventually I ended up moving the individual meshes of lower left arm and lower right arm to move the paddle.
+The next difficulty was to make it a quick motion. So I created a reset paddle function that went back to the 'neutral' state after paddling left or right. I found a method online that allowed the movement to wait before resetting the paddle.
 
 
 ## Examples
