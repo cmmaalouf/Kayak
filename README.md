@@ -7,6 +7,10 @@ I modelled a person in a kayak. I was motivated to do this after finding a three
 If the user hits the left arrow key, the paddle dips in the water and the kayak moves left.
 If the user hits the right arrow key, the paddle dips in the water and the kayak moves right.
 
+## Design Stucture
+I tried making groupd for the paddle, the person, and the kayak model as a whole. The person is made up of another two groups upper arms and lower arms.
+I tried to make the rowing movement using these groups but it was easier to do this my individual parts.
+
 
 ## Examples
 Kayak1.png
